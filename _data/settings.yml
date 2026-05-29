@@ -20,17 +20,17 @@ header:
 
 ### Social
 social:
-  - title: "Twitter"
-    icon: "fab fa-twitter"
-    url: "http://twitter.com"
+  - title: "Github"
+    icon: "fab fa-github"
+    url: "http://github.com/wngur98-lgtm"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
+  - title: "Tistory"
+    icon: "fa fa-blog"
+    url: "http://limyiamy.tistory.com"
 
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
+  # - title: "Behance"
+  #   icon: "fab fa-behance"
+  #   url: "http://behance.com"
 
 ### Footer
 footer:

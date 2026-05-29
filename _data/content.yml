@@ -5,12 +5,12 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/profile.png"
+  image: "assets/images/juhyeok.png"
   image_alt: "임주혁"
   before_title: "환영합니다, <b>제 이름은</b>"
   title: "<b>Juhyeok</b> Lim"
   after_title: "I am <strong>Cyber Security Professional</strong>"
-  description: "폴리텍 대학 강서캠퍼스 사이버 보안과 2학년 입니다."
+  description: "한국 폴리텍 대학 강서캠퍼스 사이버 보안과 2학년 입니다."
   button1:
     label: "이력서 다운받기"
     link: "#"
@@ -32,21 +32,21 @@ services:
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
+    - title: "Network Security & Defense"
+      subtitle: ""
+      text: "iptables를 활용한 정교한 방화벽 접근제어 정책 수립 및 snort 기반의 네트워크 침입/탑지 시스템 운영"
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
+    - title: "Vulnerability Analysis & IR"
+      subtitle: ""
+      text: "최신 소프트웨어 공급망공격 및 악성 바이너리 취약점 심층분석"
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+    - title: "System Administration & Automation"
+      subtitle: ""
+      text: "Wireshark, Nmap 을 활용한 네트워크 패킷 심층 분석 및 공격 표면 식별"
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
@@ -81,7 +81,7 @@ skills:
   column2:
     items:
       - label: "Python" #0-10 progress in dots
-        text: "데이터 분석 및 스크립트 작성에 python을 활용하며 가본 문법과 라이브러리를 실무에 적용할 수 있습니다."
+        text: "기본 문법과 다양한 라이브러리를 바탕으로 네트워크 패킷 분석, 대용량 시스템 로그 데이터처리 및 보안 점검 스크립트 장성에 활용합니다."
         value: "75" #0-100 progress in %
 
       # - label: "JavaScript" #0-10 progress in dots
@@ -91,8 +91,8 @@ skills:
   column3:
     items:
       - label: "JavaScript" #0-10 progress in dots
-        text: "기본 문법을 바탕으로 간단한 이터렉션 구현이 가능하며 꾸준히 활용 범위를 넓혀가고 있습니다."
-        value: "90" #0-100 progress in %
+        text: "JavaScript의 기본 문법과 기초적인 데이터 처리 흐름을 이해하고 있습니다. 기본적인 스크립트 코드를 읽고 분석할 수 있으며, IT인프라 및 보안 업무에 필요한 웹 기술의 기본기를 다져가고 있습니다."
+        value: "70" #0-100 progress in %
 
       # - label: "Adobe XD" #0-10 progress in dots
       #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -107,38 +107,43 @@ resume:
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국폴리텍대학 강서캠퍼스"
+        subname: "사이버보안과"
+        period: ""
+        text: "네트워크 인프라 보안 및 리눅스 시스템 운영을 중점적으로 학습하고 있습니다."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "네트워크관리사 2급"
+        subname: "한국정보통신자격협회"
+        period: "2025.12"
+        text: ""
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "라눅스마스터 2급"
+        subname: "한국정보통신자격협회"
+        period: "2025.12"
+        text: ""
+
+      - name: "공동주택IT안전관리사 2급"
+        subname: "한국홈네트워크안전관리협회"
+        period: "2025.9"
+        text: ""
 
   experience:
     title: "Experience"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국폴리텍대학 강서캠퍼스 총 학생회"
+        subname: "정보부장"
+        period: "2025.3 - 2025.11"
+        text: "교내 총 학생회 임원진으로 활동하며 학우들을 위한 교내 행사 운영을 지원하고, 학생회 부서 간 원활한 업무 협조에 기여했습니다."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "모의해킹 동아리 Vanguard"
+        subname: ""
+        period: "2025"
+        text: ""
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "보안 스터디 & 프로젝트 동아리 White Rootkit"
+        subname: ""
+        period: "2026"
+        text: ""
 
 
 ### Testimonials [ testimonials ]
