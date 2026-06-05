@@ -115,17 +115,17 @@ resume:
       - name: "네트워크관리사 2급"
         subname: "한국정보통신자격협회"
         period: "2025.12"
-        text: ""
+        text: "네트워크 아키텍처, 프로토콜 분석, 라우팅 설정을 포함한 인프라 관리 및 운영 역량 검증"
 
       - name: "라눅스마스터 2급"
         subname: "한국정보통신자격협회"
         period: "2025.12"
-        text: ""
+        text: "리눅스 시스템 관리, 기본 명령어 활용 및 사용자, 파일 시스템 제어를 위한 운영체제 핵심 기술 검증"
 
       - name: "공동주택IT안전관리사 2급"
         subname: "한국홈네트워크안전관리협회"
         period: "2025.9"
-        text: ""
+        text: "홈네트워크 인프라 내 보안 위협 요소를 식별하고 안전하게 제어하는 관리 능력 인증"
 
   experience:
     title: "Experience"
@@ -138,12 +138,12 @@ resume:
       - name: "모의해킹 동아리 Vanguard"
         subname: ""
         period: "2025"
-        text: ""
+        text: "리눅스 인프라 환경을 활용하여 시스템 침투 테스트 및 모의해킹 실습을 수행했습니다."
 
       - name: "보안 스터디 & 프로젝트 동아리 White Rootkit"
         subname: ""
         period: "2026"
-        text: ""
+        text: "가상 환경 내 kali linux, Firewall, DVWA 취약점 테스트 서버를 연동, 구축하고 iptables, snort를 활용한 실습을 진행했습니다. "
 
 
 ### Testimonials [ testimonials ]
