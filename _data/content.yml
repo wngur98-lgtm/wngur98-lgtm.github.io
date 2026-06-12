@@ -149,34 +149,34 @@ resume:
 ### Testimonials [ testimonials ]
 testimonials:
   title: "Testimonials"
-  subtitle: "what <b>Customers Say</b>"
+  subtitle: "what <b>Our Team Say</b>"
   bg_title: "Reviews"
 
   items:
-    - image: "assets/img/testimonials/testi4-2.jpg"
-      name: "Barbara Wilson"
-      role: "CEO Company"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - #image: "assets/img/testimonials/testi4-2.jpg"
+      name: "장수혁"
+      role: "Project Manager (PM)"
+      text: "LLM기반 취약점 탐지 도구의 핵심 파이프라인 설계와 일정 관리를 총괄했습니다. 팀원들의 적극적인 협조 덕분에 성공적으로 시스템을 구현할 수 있었습니다."
 
-    - image: "assets/img/testimonials/testi4-1.jpg"
-      name: "Charlie Smith"
-      role: "Designer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - #image: "assets/img/testimonials/testi4-1.jpg"
+      name: "이종환"
+      role: "Team Member"
+      text: "데이터 파싱 및 정적 분석 통과의 로그 연동 시스템 개발을 담당했습니다. 가상 인프라 환경에서 보안 정책의 실효성을 데이터로 검증하는 데 집중했습니다."
 
-    - image: "assets/img/testimonials/testi4-4.jpg"
-      name: "Roy Wang"
-      role: "Manager GYM"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - #image: "assets/img/testimonials/testi4-4.jpg"
+      name: "조재균"
+      role: "Team Member"
+      text: "다양한 취약점 시나리오 환경을 구축하고 모델의 탐지 정확도 및 정밀도 스캔 테스트를 맡았습니다. 팀 프로젝트를 통해 많은 성장을"
 
-    - image: "assets/img/testimonials/testi4-3.jpg"
-      name: "Jennifer Smith"
-      role: "CEO &amp; Founder"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    # - image: "assets/img/testimonials/testi4-3.jpg"
+    #   name: "Jennifer Smith"
+    #   role: "CEO &amp; Founder"
+    #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-5.jpg"
-      name: "Paul Freeman"
-      role: "Photographer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    # - image: "assets/img/testimonials/testi4-5.jpg"
+    #   name: "Paul Freeman"
+    #   role: "Photographer"
+    #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ### Pricing [ pricing ]
